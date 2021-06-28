@@ -1,9 +1,9 @@
 # Stock-Analysis
 # Overview of Project
-# ** Purpose **
+# Purpose 
 The purpose of this project was to take what we learned in module 2 and refine the code to make it more effecient.  This is called refactoring the code, to show our results we have take screen shots of the time it takes to process the analysis.  
 
-# ** Results ** 
+# Results 
 
 Using the Stock data we initially went through the module and used for loop and nested for loops to go through the entire data set each time and just added up the values for the results.  When we refactored we were able to reduce the process time of the analysis with the use of arrays.  In the refactored code we were able to set up one index that was being used by the four arrays.  We reduce the amounts of time need to do the analysis by reducing the number of itirations by using arrays.
 
